@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you%2C+I'm+Jose+%3A%29+%F0%9F%8C%B9&font=JetBrains%20Mono&color=F5F5F5&center=true)](https://git.io/typing-svg)
 
-    </li>
+   
   </ul>
 </div>
 
