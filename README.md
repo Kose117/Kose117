@@ -66,7 +66,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseMDeveloper&theme=blue-green&langs_count=5"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=blue-green&langs_count=5"/>
   
   </td>
 </tr>
