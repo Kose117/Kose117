@@ -3,8 +3,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-
-
+<div
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you%2C+I'm+Jose+%3A%29+%F0%9F%8C%B9&font=JetBrains%20Mono&color=F5F5F5&center=true)](https://git.io/typing-svg)
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
