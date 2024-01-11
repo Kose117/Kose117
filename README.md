@@ -4,11 +4,11 @@
 
 <!--h1 without bottom border-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you%2C+I'm+Jose+%3A%29+%F0%9F%8C%B9&font=JetBrains%20Mono&color=F5F5F5&center=true)](https://git.io/typing-svg)
+
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you%2C+I'm+Jose+%3A%29+%F0%9F%8C%B9&font=JetBrains%20Mono&color=F5F5F5&center=true)](https://git.io/typing-svg)
   </ul>
 </div>
 
