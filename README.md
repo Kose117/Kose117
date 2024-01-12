@@ -48,9 +48,9 @@
 - 👨‍💻 I'm a systems engineering student at Pontificia Universidad Javeriana.
 
 - 🌎 Languages:
-  ● Español
-  ● Italiano
-  ● English
+  - Español
+  - Italiano
+  - English
 
 <!--Intro end-->
 
