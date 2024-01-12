@@ -35,19 +35,23 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **C++, JavaScript, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **React.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest about artificial intelligence, and I'm currently diving into the world of AI to broaden my understanding.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Ask me about **C++, Java, CSS, HTML, mongoDB**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 📫 Feel free to reach me out **jmanuelrardilla@gmail.com**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 👨‍💻 I'm a systems engineering student at Pontificia Universidad Javeriana.
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 🌎 Languages:
+  Español
+  Italiano
+  English
+
 <!--Intro end-->
 
 
