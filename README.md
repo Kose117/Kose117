@@ -16,7 +16,6 @@
 
 
 
-<img align="left" height="150" src="https://i.imgur.com/8HsUjZa.gif"  />
 
 
 <!--- snake -->
@@ -52,6 +51,7 @@
   - Italiano
   - English
 
+<img align="left" height="150" src="https://i.imgur.com/8HsUjZa.gif"  />
 <!--Intro end-->
 
 
