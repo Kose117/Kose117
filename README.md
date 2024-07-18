@@ -40,7 +40,7 @@
 
 - ☁️ I've keen interest about artificial intelligence, and I'm currently diving into the world of AI to broaden my understanding.
 
-- 💬 Ask me about **C++, Java, CSS, HTML, mongoDB**
+- 💬 Ask me about **C++, Java, CSS, HTML, mongoDB, Kotlin**
 
 - 📫 Feel free to reach me out **jmanuelrardilla@gmail.com**
 
