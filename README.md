@@ -20,7 +20,10 @@
 
 <!--- snake -->
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
 </div>
 
 
