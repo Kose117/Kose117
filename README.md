@@ -51,6 +51,9 @@
   - English
 
 <!--Intro end-->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kose117&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Kose117&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
