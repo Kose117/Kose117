@@ -35,13 +35,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C++, JavaScript, Nodejs, MongoDB**
+- 🔭 I’m currently working on **C++, JavaScript, Nodejs, MongoDB, Angular, Postgres, Api Gateway**
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **Tensorflow**
 
 - ☁️ I've keen interest about artificial intelligence, and I'm currently diving into the world of AI to broaden my understanding.
-
-- 💬 Ask me about **C++, Java, CSS, HTML, mongoDB, Kotlin**
 
 - 📫 Feel free to reach me out **jmanuelrardilla@gmail.com**
 
@@ -90,7 +88,8 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,figma,r,firebase,github,html,matlab,java,js,mongodb,mysql,nextjs,nodejs,postman,py,react,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ai, angular, apollo, aws, bootstrap, c, cpp, css, discord, docker, figma, firebase, flutter, github, graphql, html, java, jenkins, jest, js, kafka, kotlin, kubernetes, maven, matlab, mongodb, mysql, nextjs, nodejs, notion, npm, postgres, postman, prometheus, py, r, react, sklearn, spring, tailwind, tensorflow, ts, vscode
+&perline=14" />
   </a>
 </p>
 
