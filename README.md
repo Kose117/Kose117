@@ -35,9 +35,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C++, JavaScript, Nodejs, MongoDB, Angular, Postgres, Api Gateway**
+- 🔭 I’m currently working on **AWS, Nextjs and Expressjs**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Rust**
 
 - ☁️ I've keen interest about artificial intelligence, and I'm currently diving into the world of AI to broaden my understanding.
 
