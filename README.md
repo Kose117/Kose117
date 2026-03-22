@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center"> 
 <tr border="none">
 
 <!--horizontal divider(gradiant)-->
